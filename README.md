@@ -1,120 +1,96 @@
-<!-- Typing Animation Header -->
+<!-- Pink Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=F78CFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Shilpa+Sri+👋;AI+%7C+Robotics+%7C+Full+Stack+Learner;Future+AI+Engineer+%F0%9F%A4%96;Building+Smart+Tech+For+Real+World" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+I'm+Shilpa+Sri+%F0%9F%92%95;AI+%7C+Robotics+%7C+Full+Stack+Learner;Future+AI+Engineer+%F0%9F%A4%96;Welcome+to+my+GitHub+World+%F0%9F%8C%B8" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+<p align="center">
+<img src="https://i.pinimg.com/originals/8d/6e/53/8d6e53b22d0c0df1d1b05a4f6680e6c7.gif" width="250"/>
+</p>
 
-🎓 Computer Science Engineering Student  
+---
+
+# 🌸 About Me
+
+💗 Computer Science Student  
 🤖 AI + Robotics Enthusiast  
-💡 Love building real-world tech solutions  
-🚀 Dream: Build my own **Jarvis-like Personal AI**
+🌷 Love building meaningful tech  
+
 
 ---
 
-# 🔥 Current Projects
 
-🚀 **Smart Glasses for Blind**
-- Navigation assistance
-- Face recognition
-- Voice assistant
 
-✋ **Hand Sign Interpreter**
-- Real-time gesture detection using Computer Vision
+# 💻 Tech Stack
 
-🛰 **Autonomous Drone (ISRO Challenge)**
-- Terrain scanning
-- Safe landing detection
-- Image capture
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
+### 💗 Languages
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ff85c1?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-ff99cc?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
-### 🌐 Web
+### 🌷 Web
 <p>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-ff69b4?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-ff85c1?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-ffb6c1?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-ffc0cb?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 ### 🤖 AI / ML
 <p>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
-### ⚙️ Tools
-<p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-ff69b4?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-ff85c1?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-ffb6c1?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats 💕
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Streak 💗
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Cute Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=rose_pine&row=1"/>
 </p>
 
 ---
 
-# 🎯 2026 Goals
-
-✔ Build Personal AI Assistant  
-✔ Publish Research Paper  
-✔ Open Source Contributions  
-✔ Land Dream Internship  
 
 ---
 
-# 📫 Connect With Me
+# 💌 Connect With Me
 
 <p>
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-ff85c1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-✨ *Build • Learn • Experiment • Repeat* ✨
+💖 *Code like a girl. Build like a queen.* 💖
 </p>
